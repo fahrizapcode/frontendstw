@@ -1,27 +1,27 @@
 # 🚶‍♂️ Student Walker – Frontend
 
-**Student Walker** is a short-distance delivery request application that allows users—especially students—to request items without needing a vehicle. Walkers (service providers) fulfill requests simply by walking, making the system efficient and suitable for campus or local areas.
+**Student Walker** is a short-distance delivery request (jastip) application designed especially for students. It enables users to request small errands or deliveries without requiring the service provider (walker) to have a vehicle. Walkers fulfill requests by walking — an efficient solution for campuses and local communities.
 
-This is the **frontend repository** built with **React Native** and **Expo**.
+This is the **frontend** of the Student Walker project, built using **React Native** and **Expo**.
 
-> 🚧 Project Status: **In Progress (70%)**
-
----
-
-## 🔗 Important Links
-
-- 🎨 Figma Design: [View Design](https://www.figma.com/design/Jx5OfjJwnmkUkoH9jKbVQs/StucKer?node-id=0-1&t=85iQGpbMblSBBv6A-1)
-- 🔧 Backend Repository (Node.js + WebSocket): [https://github.com/fahrizapcode/serverstw](https://github.com/fahrizapcode/serverstw)
+> 🗓️ Project started in **December 2024**  
+> 🚧 Current progress: **70% complete**
 
 ---
 
-## 🧰 Tech Stack
+## 🔗 Useful Links
 
-- ⚛️ React Native (Expo)
-- 🔔 WebSocket for real-time features
+- 🎨 Figma Design: [Student Walker UI](https://www.figma.com/design/Jx5OfjJwnmkUkoH9jKbVQs/StucKer?node-id=0-1&t=85iQGpbMblSBBv6A-1)
+- 🖥️ Backend Repository (Node.js + WebSocket): [https://github.com/fahrizapcode/serverstw](https://github.com/fahrizapcode/serverstw)
 
 ---
 
-## 📥 Installation & Setup
+## ⚙️ Tech Stack
 
+- 📱 **React Native** (with Expo)
+- 📡 **WebSocket** (for real-time communication)
+- 🔄 **Axios** (API requests)
+- 🔀 **React Navigation** (screen routing)
+- 💅 Optionally: Styled Components / NativeBase
 
+---
