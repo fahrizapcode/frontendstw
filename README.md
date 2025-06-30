@@ -20,8 +20,5 @@ This is the **frontend** of the Student Walker project, built using **React Nati
 
 - 📱 **React Native** (with Expo)
 - 📡 **WebSocket** (for real-time communication)
-- 🔄 **Axios** (API requests)
-- 🔀 **React Navigation** (screen routing)
-- 💅 Optionally: Styled Components / NativeBase
 
 ---
