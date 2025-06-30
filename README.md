@@ -5,7 +5,7 @@
 This is the **frontend** of the Student Walker project, built using **React Native** and **Expo**.
 
 > 🗓️ Project started in **December 2024**  
-> 🚧 Current progress: **70% complete**
+> 🚧 Current progress: **90% complete**
 
 ---
 
